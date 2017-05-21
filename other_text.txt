@@ -1,5 +1,5 @@
 Тут должна быть вторая статья
-// Разраб Вася написал свой коммент на ветке development
+// Dev Vasya wrote his comment on development branch
 
-// Разраб Петя в это же время добавляет свой коммент
+// Stupid Petya add his comment too, without pulling Vasya changes
 
