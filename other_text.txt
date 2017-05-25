@@ -1,5 +1,0 @@
-Тут должна быть вторая статья
-// Dev Vasya wrote his comment on development branch
-
-// Stupid Petya add his comment too, without pulling Vasya changes
-
